@@ -1,6 +1,6 @@
 # Bundle size comparison
 
-## How the test was made?
+## How did a get the bundle size?
 
 1. Initialized the lib repo using the command on the _Initialized With_ column
 2. Deleted all assets, images and css files. Added only a `h1` to the entry app file
